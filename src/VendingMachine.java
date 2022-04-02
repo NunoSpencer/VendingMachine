@@ -1,7 +1,7 @@
 import java.util.*;
 //import java.math.RoundingMode;    no need to round
-import java.text.DecimalFormat;
-import java.util.Formatter;
+//import java.text.DecimalFormat;
+//import java.util.Formatter;
 
 public class VendingMachine 
 {
