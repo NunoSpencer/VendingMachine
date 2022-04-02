@@ -1,0 +1,43 @@
+classes needed:
+
+- VendingMachine
+	ATTRIBUTES:
+		- int usercashBalance
+		
+	METHODS:
+		- void main()
+		- void selectProductMessage(productStock)  //display message of current stock of products.
+		- void selection(productID, coin, bill)    //user selects product using productID and cash(coin/bill)
+		- String productStock()
+
+- Product
+	ATTRIBUTES:
+		- String productName
+		- String productID
+		- int productPrice
+		
+	METHODS:
+
+- Coin
+	ATTRIBUTES:
+		- const double 1cent = 0.01
+		- const int 5cent = 0.05
+		- const int 10cent = 0.10
+		- const int quarter = 0.25
+		
+	METHODS:
+		- 
+- Bill
+	ATTRIBUTES:
+		- const int 1dollar = 1
+		- const int 5dollar = 5
+		- const int 10dollar = 10
+		- const int 20dollar = 20
+		
+	METHODS:
+		- 
+
+
+
+
+
